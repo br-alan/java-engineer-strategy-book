@@ -1,2 +1,0 @@
-# java-engoineer-strategy-book
-
